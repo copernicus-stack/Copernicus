@@ -8,7 +8,7 @@ Copernicus is quiz-based online game, little inspired by https://kahoot.com/.
 ##### Server Appliaction: https://github.com/copernicus-stack/Copernicus.Server
 
 
-##### App presentation:
-![https://i.imgur.com/radMuuD.gif](https://i.imgur.com/radMuuD.gif)
+##### App presentation (https://i.imgur.com/radMuuD.gifv):
+[Imgur](https://i.imgur.com/radMuuD.gifv)
 
 // todo more details
